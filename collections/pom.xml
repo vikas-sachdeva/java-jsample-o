@@ -12,5 +12,6 @@
 
   <modules>
     <module>CopyOnWriteArrayList</module>
+    <module>LinkedHashMap</module>
   </modules>
 </project>
