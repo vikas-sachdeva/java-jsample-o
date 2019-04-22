@@ -13,5 +13,6 @@
   <modules>
     <module>CopyOnWriteArrayList</module>
     <module>LinkedHashMap</module>
+    <module>GroupingBy</module>
   </modules>
 </project>
