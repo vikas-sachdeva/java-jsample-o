@@ -14,5 +14,6 @@
     <module>CopyOnWriteArrayList</module>
     <module>LinkedHashMap</module>
     <module>GroupingBy</module>
+    <module>spliterator</module>
   </modules>
 </project>
