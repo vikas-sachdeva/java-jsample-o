@@ -15,5 +15,6 @@
     <module>LinkedHashMap</module>
     <module>GroupingBy</module>
     <module>spliterator</module>
+    <module>completable-future</module>
   </modules>
 </project>
