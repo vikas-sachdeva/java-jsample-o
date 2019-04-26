@@ -10,5 +10,6 @@
 	<packaging>pom</packaging>
   <modules>
     <module>reentrant-lock</module>
+    <module>reentrant-read-write-lock</module>
   </modules>
 </project>
