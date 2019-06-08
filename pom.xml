@@ -33,5 +33,6 @@
   <modules>
     <module>collections</module>
     <module>concurrency</module>
+    <module>lambda-streams</module>
   </modules>
 </project>
