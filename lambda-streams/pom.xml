@@ -11,5 +11,7 @@
 	<modules>
 		<module>factorial-lambda</module>
     <module>factorial-lambda-recursion</module>
+    <module>map-stream</module>
+    <module>flat-map-stream</module>
   </modules>
 </project>
