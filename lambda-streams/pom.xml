@@ -13,5 +13,6 @@
     <module>factorial-lambda-recursion</module>
     <module>map-stream</module>
     <module>flat-map-stream</module>
+    <module>map-to-list-converter</module>
   </modules>
 </project>
